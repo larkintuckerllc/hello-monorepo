@@ -13,5 +13,8 @@
     "apple": "^1.0.0",
     "banana": "^1.0.0",
     "sillyname": "0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
   }
 }
